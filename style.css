@@ -1,0 +1,14 @@
+body {
+  background: purple;
+  color: white;
+}
+
+.poster img {
+  width: 200px;
+  height: 200px;
+}
+
+.album {
+  width: calc(100% / 3);
+  margin: 50px 0;
+}
